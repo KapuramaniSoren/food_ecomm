@@ -13,6 +13,6 @@ If you are developing a production application, we recommend using TypeScript an
 
 
 
-To clone this project write: 
+<b>To clone this project write:</b> 
 
-git clone 
+git clone https://github.com/KapuramaniSoren/food_ecomm.git
